@@ -1,0 +1,1 @@
+// Write a program that creates a Syntax table (letter, digits, symbol, arithmetic/logical op….). 

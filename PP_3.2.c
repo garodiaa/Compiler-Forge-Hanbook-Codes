@@ -1,0 +1,1 @@
+// Write a program that will eliminate single line comment from a given input. 

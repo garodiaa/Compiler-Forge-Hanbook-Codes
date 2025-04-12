@@ -1,0 +1,1 @@
+// Write a program to identify and count vowel and consonant 

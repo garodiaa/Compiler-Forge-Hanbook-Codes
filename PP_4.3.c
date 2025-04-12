@@ -1,0 +1,1 @@
+// Write a program to check if a given string follows the RE (0|1)*1(0|1) (any binary string ending in "1" followed by one more bit). 

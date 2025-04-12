@@ -1,0 +1,1 @@
+// Write a program count each article type. 

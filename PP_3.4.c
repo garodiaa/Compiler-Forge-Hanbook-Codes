@@ -1,0 +1,1 @@
+// Write a C program that will count the number of line/s in a given input. 

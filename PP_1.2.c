@@ -1,0 +1,1 @@
+// Write a program that takes a string as input and prints each word of that string in new line. 

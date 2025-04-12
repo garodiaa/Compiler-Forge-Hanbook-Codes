@@ -1,0 +1,1 @@
+// Write a program to extract and print only vowels from a sentence. 

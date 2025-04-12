@@ -1,0 +1,1 @@
+// Write a program that eliminate extra article in a sentence. 

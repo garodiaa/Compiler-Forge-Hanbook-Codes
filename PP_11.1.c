@@ -1,0 +1,1 @@
+// Write a program to count number of para’s in a paragraph.
